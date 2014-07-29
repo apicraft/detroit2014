@@ -28,15 +28,7 @@ Welcome to Open Space.
 
 [pause]
 
-* front row
-
-[pause]
-
-* back rows
-
-[pause]
-
-* See who is here.
+* See who's here.
 
 [pause]
 
@@ -44,7 +36,7 @@ Welcome to Open Space.
 
 Over the next two days we will ask ourselves the question:
 
-"Where do we take the APIs of tomorrow?"
+"Where do we lead the APIs of tomorrow?"
 
 By the end of our time together we will have written a proceedings filled with a vision for the future of APIs.
 
@@ -58,7 +50,7 @@ It's empty.
 
 [pause]
 
-We will rise to the occasion and fill that wiki with excellent thinking and wisdom about the future of APIs.
+We will fill that wiki with our best thinking and wisdom about the future of APIs.
 
 How that will happen, we will talk about in a moment.
 
@@ -66,7 +58,7 @@ How that will happen, we will talk about in a moment.
 
 For now, know that we WILL make it happen.
 
-Our content will be referenced by people here today and many others around the world who will benefit from our time together.
+The work we do here will benefit each other and people around the world.
 
 # The Process
 
@@ -74,9 +66,9 @@ So, how are we going to get from here to there?
 
 ## Open Space Facts
 
-It is called Open Space Technology. 
+It is called Open Space Technology.
 
-Open Space has developed over a period of time starting in 1985. 
+Open Space has developed since 1985.
 
 It has been used all over the world with groups from five to two thousand.
 
@@ -96,9 +88,9 @@ Don’t just consider good ideas that somebody else might do or be interested in
 
 Think of powerful ideas that really grab you to the point that you will take personal responsibility to make sure that something gets done. 
 
-If NOTHING occurs to you, that is okay, 
+If NOTHING occurs to you, that's okay, 
 
-and if you have MORE THAN ONE issue or opportunity, that is fine too. 
+and if you have MORE THAN ONE topic, that's fine too.
 
 ## The Steps
 
@@ -126,21 +118,23 @@ Nothing but THE FACTS:
 * your issue
 * and your name
 
-After you have announced your theme, take your piece of paper and tape it up on a blank whiteboard. 
+After you have announced your theme, take your piece of paper and tape it up on a blank whiteboard.
 
-On your way, grab a Post It note from the whiteboards, which will give you a time and place for your session, attach it to your paper, and put the paper on the blank whiteboard based on day 1 or day 2.
+On your way, grab a Post It note from the whiteboards, which will give you a time and place for your session, attach it to your paper, and put the paper on the blank whiteboard for day 1 or day 2.
 
-When you have done that, please return to your seat.
+When you've done that, return to your seat.
 
 ## Reassurance
 
-Just out of curiosity, how many of us have been to a two-day conference where the total agenda was represented by a bunch of blank whiteboards?
+Just out of curiosity, how many of us have been to a two-day conference where the total agenda was represented by a couple blank whiteboards?
 
-Some of us are likely wondering, 
+Some of us are likely wondering,
 
-"how did get into this?"
+"how did I get into this?"
 
-and more importantly, "how am I going to get out of it."
+and more importantly, 
+
+"how am I going to get out of it?"
 
 Well, here's a promise: if at this moment you are looking at that wall and wondering
 
@@ -152,13 +146,15 @@ within an hour you will look at that same wall and wonder:
 
 ## Qualifications
 
-Raising an issue does not require that you be an expert on the subject. In fact, the ONLY THING you need to have is THE QUESTION. 
+Proposing a topic does not require that you be an expert on the subject. 
+
+In fact, the ONLY THING you need to have is THE QUESTION. 
 
 It is so nice to start with a QUESTION, MY QUESTION.
 
 QUESTIONS create an open space in which good thinking can happen.
 
-So, if all you have is a question, that is a great place to start. 
+So, if all you have is a question, that is a great place to start.
 
 Don’t worry if you have no PowerPoints, or a prepared text (although that's fine too) – just state your question, and I believe you will find that our community will join you in finding some answers that really work.
 
@@ -166,13 +162,13 @@ Don’t worry if you have no PowerPoints, or a prepared text (although that's fi
 
 The only responsibility for proposing a session is that you do your best to capture the output of the session for our proceedings. 
 
-How do you contribute you to the proceedings?
+How do you contribute to the proceedings?
 
-This might involve 
+You can:
 
-* asking for a volunteer at the beginning of your session to take notes 
+* ask for a volunteer at the beginning of your session to take notes
 
-* or taking photos of the whiteboard or flip charts in your session to spur your memory for later
+* or take photos of the whiteboard or flip charts in your session to spur your memory for later
 
 Your only obligation is that you summarize your session on the GitHub wiki. The more details the better.
 
@@ -198,7 +194,7 @@ You have no one to blame but yourself.
 
 While you are thinking about the issues for which you have a real passion, allow me to describe the Four Principles and the One Law of Open Space.
 
-They are also posted on the east wall to remind us throughout the conference.
+They are also posted on that wall to remind us throughout the conference.
 
 The Four Principles are...
 
@@ -228,7 +224,9 @@ Or you might look at it this way.
 
 [pause]
 
-* Then again, it may be a great idea but at the wrong time. In either case, you are getting some useful information. 
+* Then again, it may be a great idea but at the wrong time. 
+
+In either case, you are getting some USEFUL INFORMATION.
 
 There is, however, another possibility.
 
@@ -250,7 +248,7 @@ Whatever Happens is the Only Thing that Could Have Happened
 
 Real learning and real progress will only take place when we move beyond our original agendas and expectations. 
 
-If everything turned out just the way everybody expected, life would be exceedingly dull, and learning in any useful sense simply would not occur. 
+If everything turned out just the way we expected, life would be dull, and learning in any useful sense wouldn't happen.
 
 It is precisely in moments of surprise, large and small, that we grow.
 
@@ -263,9 +261,9 @@ Our gathering here is about
 * creativity 
 * and inspiration
 
-Both are essential and neither cares about the clock. 
+Both are essential but they don't care about the clock.
 
-They appear (or not) in their own time, which by definition means it is the right time. 
+They appear (or not) in their own time, which by definition means it is the right time.
 
 So all parties need to be advised that just because a session is scheduled for, say, 3:00 p.m. there is absolutely no guarantee that anything useful will take place at that moment. 
 
@@ -285,13 +283,13 @@ As it turns out, all the useful business is conducted in the first twenty minute
 
 Common sense would dictate that it's time to move on.
 
-However, there is some strange mechanism in us that ties us to predetermined forms and we find ways to fill the remaining 90 minutes.
+However, there is some strange mechanism in us that finds ways to fill the remaining hour.
 
 Not here.
 
 When it's over, it's over. 
 
-You are free to be on our way, move on to the next great thing.
+You are free to be on our way, to move on to the next great thing.
 
 ### When it's Not Over, It's Not Over
 
@@ -299,7 +297,7 @@ There is a corollary to the fourth principle:
 
 When it’s NOT over, it’s NOT over.
 
-The time and space here is yours:
+The time and space here are yours:
 
 * You travelled here.
 * You took time away from other commitments. 
@@ -319,7 +317,7 @@ LUCKILY
 
 [pause] 
 
-It is NO great task to move to some other place, or to choose another time when you might conveniently gather.
+It is NO great task to move to some other place, or to choose another time when you might gather.
 
 ## The One Law
 
@@ -329,7 +327,7 @@ Those are the four principles. Open Space has one law.
 
 The one law is The Law of Mobility
 
-If, at any time, you find yourself in a situation where you are neither learning nor contributing, exercise the law of mobility and move to a more productive place.
+If, at any time, you find yourself in a situation where you are not learning and you're not contributing, exercise the law of mobility and move to a more productive place.
 
 #### Big Egos
 
@@ -372,7 +370,7 @@ Like their counterparts in nature, they pollinate and cross-pollinate, lending r
 
 If you're inclined to be a bumblebee, go for it.
 
-Move around - a lot.
+Move around.
 
 #### Butterflies
 
@@ -438,9 +436,13 @@ I now invite each and every one of you - who so desires - to share the issues yo
 
 ## Encouragement (if needed)
 
+[after the action has started]
+
 Remember, nothing will appear on the wall unless you put it there. You, and you alone, are responsible for the agenda. If you do not find your favorite issue, only you are to blame.
 
 ## Premature Gathering (if needed)
+
+[if there is gathering around the wall]
 
 Please sit down back in the circle so that others can see.
 
@@ -456,7 +458,9 @@ Patience, please. Just a little patience.
 
 ## Introduction
 
-In a moment we will open the community boards. 
+[after all the topics are posted]
+
+In a moment we will open the community boards.
 
 You will be invited to enter into the exchange of issues and ideas by leaving your seats and making the journey to the wall, where you can contribute to as many sessions as you wish.
 
@@ -488,7 +492,7 @@ But sometimes it's better to have two sessions on the same subject with fewer pe
 
 When it comes to combining sessions, the rules are the same as with conflicts: 
 
-* THE CONVENERS RULE!
+* THE CONVENERS RULE
 
 If some person wishes to combine two sessions they must find the two conveners and obtain their permission. 
 
@@ -507,7 +511,7 @@ would all the people sitting directly in front of the community bulletin board:
 * please 
 * take a moment 
 * pick up your chairs and other belongings 
-* and move them out of the way 
+* and move them out of the way
 * to either side
 
 Everyone else, please be seated a little longer as we clear the way.
@@ -518,4 +522,4 @@ Choose whatever issues you wish to pursue. Enjoy yourselves. Let's get to work.
 
 I will see you for evening news.
 
-The village marketplace is now open. 
+The village marketplace is now open.

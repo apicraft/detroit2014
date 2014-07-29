@@ -126,15 +126,7 @@ When you've done that, return to your seat.
 
 ## Reassurance
 
-Just out of curiosity, how many of us have been to a two-day conference where the total agenda was represented by a couple blank whiteboards?
-
-Some of us are likely wondering,
-
-"how did I get into this?"
-
-and more importantly, 
-
-"how am I going to get out of it?"
+Just out of curiosity, how many of us have never been to a two-day conference where the agenda was a blank wall?
 
 Well, here's a promise: if at this moment you are looking at that wall and wondering
 

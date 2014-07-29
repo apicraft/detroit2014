@@ -500,6 +500,10 @@ If the answer is, YES, then combine the sessions.
 
 And if, NO, then the two sessions remain as originally posted.
 
+## Proceedings
+
+Conveners of sessions, we will have a "how-to" session on creating the proceedings for your sessions by that wall at 10:20am.
+
 ## Public Safety 
 
 The last item concerns public safety. 
